@@ -11,3 +11,4 @@ Pre-trained or custom-trained deep learning models for sign recognition.
 Support for multiple sign languages (e.g., ASL, ISL, BSL).
 Interactive UI with live gesture tracking.
 Text and Speech output for recognized gestures
+In future we can add gesture analysis too
